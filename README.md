@@ -172,11 +172,6 @@ The next development steps would be:
 - add persistent storage for the index
 - build a simple user interface for searching
 
-## GitHub Link
-Add your repository link here before submission:
-
-`[Insert GitHub repository link here]`
-
 ## Author
 Sai Venkata Bharath Reddy Singareddy
 
